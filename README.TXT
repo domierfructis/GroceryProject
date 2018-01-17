@@ -11,8 +11,8 @@ In order to start and test the program, run
 GroceryListTest.main()
 
 My program gives the user the ability to create their own
-grocery list from scratch using a simple menu system.
-Each menu options corresponds to a static method
+grocery list from scratch using a simple command-line menu system.
+Each menu option corresponds to a static method
 in the GroceryListTest class.
 
 Enter 0 in the console to view the menu options.
