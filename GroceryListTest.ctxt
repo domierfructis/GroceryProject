@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=console\ list
+comment1.target=void\ instructions(java.util.Scanner,\ GroceryList)
+comment10.params=list
+comment10.target=GroceryList\ exampleList(GroceryList)
+comment11.params=
+comment11.target=void\ help()
+comment2.params=console\ response\ list
+comment2.target=void\ userResponse(java.util.Scanner,\ java.lang.String,\ GroceryList)
+comment3.params=console\ list
+comment3.target=GroceryList\ start(java.util.Scanner,\ GroceryList)
+comment4.params=console\ list
+comment4.target=GroceryList\ addToList(java.util.Scanner,\ GroceryList)
+comment5.params=console\ list
+comment5.target=GroceryList\ removeFromList(java.util.Scanner,\ GroceryList)
+comment6.params=console\ list
+comment6.target=GroceryList\ adjustPrice(java.util.Scanner,\ GroceryList)
+comment7.params=console\ list
+comment7.target=GroceryList\ adjustQuantity(java.util.Scanner,\ GroceryList)
+comment8.params=list
+comment8.target=void\ printList(GroceryList)
+comment9.params=input\ list
+comment9.target=int\ findItem(java.lang.String,\ GroceryList)
+numComments=12
